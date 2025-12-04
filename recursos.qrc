@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Imagenes Proyecto/flechaAbajo.png</file>
+        <file>Imagenes Proyecto/flechaArriba.png</file>
+        <file>Imagenes Proyecto/historial.png</file>
+        <file>Imagenes Proyecto/agendar.png</file>
+        <file>Imagenes Proyecto/mostrar.png</file>
+        <file>Imagenes Proyecto/buscar.png</file>
+        <file>Imagenes Proyecto/logo.png</file>
+        <file>Imagenes Proyecto/image.png</file>
+        <file>Imagenes Proyecto/cardiologia.png</file>
+        <file>Imagenes Proyecto/odontologia.png</file>
+        <file>Imagenes Proyecto/pediatria.png</file>
+        <file>Imagenes Proyecto/traumatologia.png</file>
+    </qresource>
+</RCC>
